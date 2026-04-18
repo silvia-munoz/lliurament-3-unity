@@ -6,3 +6,5 @@ This project includes enemy spawning and health items.
 
 Created using Unity.
 
+This update was created in a new branch called feature/upgrade.
+
